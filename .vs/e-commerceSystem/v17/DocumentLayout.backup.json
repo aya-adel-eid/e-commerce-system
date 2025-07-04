@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\course\\e-commerceSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|solutionrelative:e-commerceSystem\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\CartItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|solutionrelative:e-commerceSystem\\CartItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|solutionrelative:e-commerceSystem\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\e-commerceSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|solutionrelative:e-commerceSystem\\e-commerceSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|solutionrelative:e-commerceSystem\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\CartItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|solutionrelative:e-commerceSystem\\CartItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC9399EE-F327-44AA-AB47-1B14E800DE1B}|e-commerceSystem\\e-commerceSystem.vcxproj|F:\\course\\e-commerceSystem\\e-commerceSystem\\ProductManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Shopping.h",
               "DocumentMoniker": "F:\\course\\e-commerceSystem\\e-commerceSystem\\Shopping.h",
               "RelativeDocumentMoniker": "e-commerceSystem\\Shopping.h",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "e-commerceSystem\\Shopping.h",
               "ViewState": "AgIAAAEAAAAAAAAAAAASwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T03:05:42.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T03:05:42.33Z"
             },
             {
               "$type": "Document",
@@ -67,38 +66,36 @@
               "RelativeToolTip": "e-commerceSystem\\DataEntery.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAvwBkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T02:46:21.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T02:46:21.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Customer.h",
               "DocumentMoniker": "F:\\course\\e-commerceSystem\\e-commerceSystem\\Customer.h",
               "RelativeDocumentMoniker": "e-commerceSystem\\Customer.h",
               "ToolTip": "F:\\course\\e-commerceSystem\\e-commerceSystem\\Customer.h",
               "RelativeToolTip": "e-commerceSystem\\Customer.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAASwBgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvxgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-04T00:39:08.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T00:39:08.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Cart.h",
               "DocumentMoniker": "F:\\course\\e-commerceSystem\\e-commerceSystem\\Cart.h",
               "RelativeDocumentMoniker": "e-commerceSystem\\Cart.h",
               "ToolTip": "F:\\course\\e-commerceSystem\\e-commerceSystem\\Cart.h",
               "RelativeToolTip": "e-commerceSystem\\Cart.h",
-              "ViewState": "AgIAACUAAAAAAAAAAAASwDgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAADgvzIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-03T23:57:08.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CartItem.h",
               "DocumentMoniker": "F:\\course\\e-commerceSystem\\e-commerceSystem\\CartItem.h",
               "RelativeDocumentMoniker": "e-commerceSystem\\CartItem.h",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "e-commerceSystem\\CartItem.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-03T23:49:35.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T23:49:35.586Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "e-commerceSystem\\ProductManager.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAASwBUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-03T23:14:39.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T23:14:39.661Z"
             },
             {
               "$type": "Document",
@@ -132,12 +127,11 @@
               "RelativeToolTip": "e-commerceSystem\\Products.h",
               "ViewState": "AgIAAB0AAAAAAAAAAAAvwCgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-03T20:21:15.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T20:21:15.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "e-commerceSystem.cpp",
               "DocumentMoniker": "F:\\course\\e-commerceSystem\\e-commerceSystem\\e-commerceSystem.cpp",
               "RelativeDocumentMoniker": "e-commerceSystem\\e-commerceSystem.cpp",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "e-commerceSystem\\e-commerceSystem.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-03T20:20:12.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T20:20:12.533Z"
             }
           ]
         }

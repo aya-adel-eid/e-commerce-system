@@ -48,13 +48,16 @@ public:
 
     void printCart() const {
         cout << "\n***Shipment notice***\n";
+        double totalWeight = 0;
         for (const auto& item : items) {
             cout << " x" << item.getQuantity()
                 << "  " << item.getProduct()->getName()
                 << "      " << item.getProduct()->getWeight() << " KG\n";
-            
+            totalWeight += item.getProduct()->getWeight();
         }
+        cout << "Total Package Weight  " << totalWeight << " KG\n";
         cout << "\n***CHECKOUT RECEIPT***\n";
+        
         for (const auto& item : items) {
             cout << " x" << item.getQuantity()
                 << "  " << item.getProduct()->getName()
